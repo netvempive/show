@@ -1,0 +1,4 @@
+rootProject.name = 'show'
+include 'server'
+include 'web'
+
